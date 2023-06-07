@@ -5,7 +5,7 @@ I am currently a student at University of Science and Technology Beijing (USTB) 
 
 My research interests are quantitative linguistics, historical linguistics, and computational linguistics. Specifically speaking, my current study focuses on extracting the quantitative historical features of Chinese and tries to probe their application in other fields. e.g. language education and natural language processing. 
 
-```
-For CV, click here: BINGJIE ZENG
-```
+For more info about me, please click here 👉 [BINGJIE ZENG](https://bingjiezeng.github.io)
+
+
 
