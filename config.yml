@@ -1,7 +1,0 @@
-theme: jekyll-theme-slate
-title: This is the personal homepage of Bingjie Zeng
-description: What you will find here are links to projects, publications, and repositories related to the former. Expect some delay in reporting!
-plugins:
-  - jemoji
-url: "https://BingjieZeng.github.io/;
-markdown: kramdown
